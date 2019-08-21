@@ -40,7 +40,7 @@ p{
 /* create your tile classes! we recommend .small .med .large */
 
 .small {
-  width: 100%;
+  width: 25%;
   height: 100%;
 }
 
