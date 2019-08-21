@@ -29,5 +29,9 @@ h2 {
   margin-right: auto;
   width: 50%;
 }
+p{
+	text-align:center
+}
+
 
 /* Write all remaining styles here */
